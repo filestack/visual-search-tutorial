@@ -2,7 +2,7 @@
 <h1 align="center">Visual Search</h1>
 
 This is the repository accompanying the article:
-[Visual Search Tutorial](https://blog.filestack.com/)
+[Measuring image similarity with N-dimensional vectors](https://blog.filestack.com/thoughts-and-knowledge/measuring-image-similarity-with-n-dimensional-vectors/)
 
 Use deep neural network to aggregate images by visual similarity:
 
